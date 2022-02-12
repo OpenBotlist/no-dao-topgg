@@ -5,3 +5,8 @@ for more info about why web3 is not secure:https://www.vox.com/recode/22907072/w
 
 var url = "top.gg"
 var https = "https://" + url
+
+
+if(location.href == https){
+  
+}
