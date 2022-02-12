@@ -1,3 +1,6 @@
+# WARNING:THIS EXTANTION IS NOT PUBLIC YET
+
+
 <div align="center">
 
 <img height="200" src="https://cdn.poketalebot.com/img/topgg.svg">
