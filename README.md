@@ -22,7 +22,7 @@
  
  
  # Ok how do I install this?
- **You cant (for now). Since topgg dao thing is still not available to the public.**
+ **You cant (for now). Since top.gg DAOs are not available to the public at the moment.**
  
  
  ## Learn more
