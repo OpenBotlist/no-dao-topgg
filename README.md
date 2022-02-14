@@ -1,5 +1,4 @@
-# WARNING: THIS EXTENSION IS NOT PUBLIC YET
-
+ 
 
 <div align="center">
 
@@ -22,8 +21,7 @@
  
  
  # Ok how do I install this?
- **You cant (for now). Since top.gg DAOs are not available to the public at the moment.**
- 
+**soon:tm:** 
  
  ## Learn more
  
