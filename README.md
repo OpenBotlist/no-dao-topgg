@@ -17,7 +17,7 @@
  
  # Why?
  
- **Well, there'ss a lot of concerns about privacy on web3 and DAOs. So, with this extension you will able to protect your privacy too. and if you want to only use top.gg for discord stuff, this extention will help too!**
+ **Well, there's a lot of concerns about privacy on web3 and DAOs. So, with this extension you will able to protect your privacy too. and if you want to only use top.gg for discord stuff, this extention will help too!**
  
  
  # Ok how do I install this?
