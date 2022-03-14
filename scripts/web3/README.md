@@ -16,3 +16,6 @@ Web3 will make some people a lot of money. But many other people will lose their
 What you can’t do, right now, is ignore Web3 if you work in or around tech. Because it’s all anybody has wanted to talk about for the past several months. 
 
 futher reading:<a href="https://www.vox.com/recode/22907072/web3-crypto-nft-bitcoin-metaverse">here</a>
+
+# TOPGG U BLOCK FILTER:
+see filter.txt
