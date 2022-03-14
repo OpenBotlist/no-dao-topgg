@@ -1,0 +1,13 @@
+# This is a filter for ublock origin
+# HOW TO ADD TO UBLOCK ORIGIN ? go to ublock origin settings,my filters and click import
+
+top.gg###popover-body-4 > .css-112igrq > .css-1oelu3b.chakra-stack > .css-12wcxte.chakra-stack > .css-qvwmg3.chakra-stack.chakra-link
+top.gg##section.css-t4wzpe.chakra-stack > .css-1gvsyhj.chakra-stack
+top.gg##.css-1zk9y0
+top.gg##.css-2piam9
+top.gg##.css-bf3cs0.chakra-stack > .css-1s7i29z.chakra-text
+top.gg##.css-bf3cs0.chakra-stack > .css-k3i669.chakra-text
+top.gg##.css-139kfgt.chakra-text.chakra-stack
+top.gg##.css-13i22tj.chakra-icon
+top.gg###popover-trigger-63 > .css-a4do4s.chakra-button
+top.gg##section.css-t4wzpe.chakra-stack:nth-of-ty
